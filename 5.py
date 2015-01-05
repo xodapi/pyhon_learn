@@ -1,0 +1,5 @@
+print('как тебя зовут?')
+name=input()
+print('С Новым годом +name+',end='!')
+print('да да',end='!')
+print('\t\t\tнет нет'+'!')
